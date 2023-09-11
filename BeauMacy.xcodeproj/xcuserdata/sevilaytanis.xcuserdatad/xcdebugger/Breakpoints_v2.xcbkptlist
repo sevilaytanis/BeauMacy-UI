@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0980FD84-9777-476A-8B62-05D71321C90C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3B86B23-5D3D-41FE-9203-3971E649CE2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastPizza/Services/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "SignIn(email:password:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E3B86B23-5D3D-41FE-9203-3971E649CE2E - 353958dff0977f65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FastPizza.AuthService.SignIn(email: Swift.String, password: Swift.String, completion: (Swift.Result&lt;__C.FIRUser, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FastPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sevilaytanis/Desktop/FastPizza-main/FastPizza/Services/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "E3B86B23-5D3D-41FE-9203-3971E649CE2E - 294e4952f5750bee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FastPizza.AuthService.SignIn(email: Swift.String, password: Swift.String, completion: (Swift.Result&lt;__C.FIRUser, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FastPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sevilaytanis/Desktop/FastPizza-main/FastPizza/Services/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2ED5A872-C669-4EC1-96E2-86EB1B75414B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastPizza/Services/AuthService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "SignUp(email:password:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2ED5A872-C669-4EC1-96E2-86EB1B75414B - e69668d132af360b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FastPizza.AuthService.SignUp(email: Swift.String, password: Swift.String, completion: (Swift.Result&lt;__C.FIRUser, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FastPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sevilaytanis/Desktop/FastPizza-main/FastPizza/Services/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "2ED5A872-C669-4EC1-96E2-86EB1B75414B - e294327b8d08abe0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRAuthDataResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in FastPizza.AuthService.SignUp(email: Swift.String, password: Swift.String, completion: (Swift.Result&lt;__C.FIRUser, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "FastPizza"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sevilaytanis/Desktop/FastPizza-main/FastPizza/Services/AuthService.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C15C3E83-9221-44A9-81BB-68B060D9CC6B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FastPizza/FastPizzaApp.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
